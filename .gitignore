@@ -1,0 +1,5 @@
+*.bkp
+.vscode
+.idea
+*.crt
+*.key
